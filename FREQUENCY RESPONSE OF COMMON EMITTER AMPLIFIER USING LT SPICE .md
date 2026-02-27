@@ -31,6 +31,7 @@
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
+<img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/9d974cfe-5939-4f00-8020-7a5ac73fd3d0" />
 
 **VOLTAGE GAIN =**
 
